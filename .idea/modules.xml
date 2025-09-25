@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/1.2-requests-templates.iml" filepath="$PROJECT_DIR$/.idea/1.2-requests-templates.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/recipes.iml" filepath="$PROJECT_DIR$/.idea/recipes.iml" />
+>>>>>>> 70c8a47fbcbf45be3452ad13aeb801c94760ab7d
     </modules>
   </component>
 </project>

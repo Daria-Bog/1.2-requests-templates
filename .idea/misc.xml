@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (1.2-requests-templates)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (1.2-requests-templates)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (recipes)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (recipes)" project-jdk-type="Python SDK" />
+>>>>>>> 70c8a47fbcbf45be3452ad13aeb801c94760ab7d
 </project>
